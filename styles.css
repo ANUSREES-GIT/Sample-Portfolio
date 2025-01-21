@@ -7,7 +7,7 @@
 
 body{
 
-    background-image: url(./img/img1.jpg);
+    background-image: url(img1.jpg);
     background-repeat:inherit;
     background-color: #387F39;
     color: white;
@@ -23,7 +23,7 @@ body{
 
 .sidebar{
 
-    background-image: url(./img/bg1.jpg);
+    background-image: url(bg1.jpg);
     background-color:#859F3D;
     padding: 45px;
     /* border: 6px solid #d62121bd; */
